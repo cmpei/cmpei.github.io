@@ -57,9 +57,9 @@ function load_content(page_title) {
 								<li id="index" class="nav-link"><a href="/">Home</a></li>\
 								<li id="call_for_papers" class="nav-link"><a href="/call_for_papers">Call for Papers</a></li>\
 								<li id="important_dates" class="nav-link"><a href="/important_dates">Important Dates</a></li>\
-								<li class="nav-link"><a href="/authors">Guidelines to Authors</a></li>\
-								<li class="nav-link"><a href="/registration">Registration</a></li>\
-								<li class="nav-link"><a href="/accommodation">Accommodation</a></li>\
+								<li id="authors" class="nav-link"><a href="/authors">Guidelines to Authors</a></li>\
+								<li id="registration" class="nav-link"><a href="/registration">Registration</a></li>\
+								<li id="accomodation" class="nav-link"><a href="/accommodation">Accommodation</a></li>\
 								<!--<li id="authors" class="nav-link" class="dropdown">\
 									<a class="dropdown-toggle" data-toggle="dropdown" href="#">Author Info<span class="caret"></span></a>\
 									<ul class="dropdown-menu">\
