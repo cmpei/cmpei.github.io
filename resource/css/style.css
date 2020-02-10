@@ -57,15 +57,16 @@ img.logo_nitk{
   margin: auto;
 	padding-top:60px; 
 	width: 110px;
-	height: 130px;
+	height: 170px;
 }
 img.logo_dj{
 
   display: block;
+  margin: auto;
 	padding-top:60px;
 	width: 150px;
-	height: 150px;
-  margin: auto;
+	height: 1100px;
+  
 }
 .titleline{
   width: 50%;
