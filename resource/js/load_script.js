@@ -70,7 +70,7 @@ function load_content(page_title) {
 								</li>-->\
 								<!--<li id="crc" class="nav-link"><a href="crc.html">CRC Info</a></li>\
 								<li id="program" class="nav-link"><a href="program.html">Program</a></li>\
-								<li id="keynote" class="nav-link"><a href="keynote.html">Keynote Speakers</a></li>\-->
+								<li id="keynote" class="nav-link"><a href="keynote.html">Keynote Speakers</a></li>\-->\
 								<li id="nearby" class="nav-link"><a href="/nearby">Key Attractions</a></li>\
 								<li id="committee" class="nav-link"><a href="/committee">Committee</a></li>\
 								<li id="contact" class="nav-link"><a href="/contact">Contact Us</a></li>\
