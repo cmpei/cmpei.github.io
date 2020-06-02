@@ -59,7 +59,7 @@ function load_content(page_title) {
 								<li id="important_dates" class="nav-link"><a href="/important_dates">Important Dates</a></li>\
 								<li id="authors" class="nav-link"><a href="/authors">Guidelines to Authors</a></li>\
 								<li id="registration" class="nav-link"><a href="/registration">Registration</a></li>\
-								<li id="accomodation" class="nav-link"><a href="/accommodation">Accommodation</a></li>\
+								<!--<li id="accomodation" class="nav-link"><a href="/accommodation">Accommodation</a></li>-->\
 								<!--<li id="authors" class="nav-link" class="dropdown">\
 									<a class="dropdown-toggle" data-toggle="dropdown" href="#">Author Info<span class="caret"></span></a>\
 									<ul class="dropdown-menu">\
@@ -71,7 +71,7 @@ function load_content(page_title) {
 								<!--<li id="crc" class="nav-link"><a href="crc.html">CRC Info</a></li>\
 								<li id="program" class="nav-link"><a href="program.html">Program</a></li>\
 								<li id="keynote" class="nav-link"><a href="keynote.html">Keynote Speakers</a></li>\-->\
-								<li id="nearby" class="nav-link"><a href="/nearby">Key Attractions</a></li>\
+								<!--<li id="nearby" class="nav-link"><a href="/nearby">Key Attractions</a></li>-->\
 								<li id="committee" class="nav-link"><a href="/committee">Committee</a></li>\
 								<li id="contact" class="nav-link"><a href="/contact">Contact Us</a></li>\
 							</ul>\
