@@ -1,0 +1,65 @@
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Welcome to CMPEI 2020</title>
+      
+      <link rel="shortcut icon" href="resource/img/favicon.ico" type="image/x-icon">
+      <link rel="icon" href="resource/img/favicon.ico" type="image/x-icon">
+      
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link href="resource/css/bootstrap.css" rel="stylesheet">
+      <link href="resource/css/style.css" rel="stylesheet">
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="resource/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="resource/js/load_script.js"></script>
+   </head>
+   <body>
+      <div class="container container-fluid">
+      <!--Header section-->
+      <div id="header_content">
+         
+      </div> <!-- header_content -->
+      
+      <div class="main_content">
+      <h2>Keynote Speakers</h2>
+      <div class="titleline"></div>
+<!------ Include the above in your HEAD tag ---------->
+
+
+  <div class="row" >
+    <div class="col-lg-4 col-sm-6 col-xs-12">
+        <a>
+             <img src="resource/img/slider_images/anandunnithan.jpg" alt="Prof. Unnithan" class="thumbnail img-responsive">
+             <h3><strong>PROF. ANANDAKUTTAN B UNNITHAN</strong></h3>
+	     <p>DEAN (Academic Affairs & Development)</p>
+             <p>Indian Institute of Management Kozhikode</p>
+        </a>
+    </div>
+    <div class="col-lg-4 col-sm-6 col-xs-12">
+        <a>
+             <img src="resource/img/slider_images/Biju_Balendran.jpg" alt="Mr. Biju Balendran" class="thumbnail img-responsive">
+             <h3><strong>MR. BIJU BALENDRAN</strong></h3>
+             <p>MD & CEO</p>
+             <p>Renault Nissan Automotive India Pvt Ltd</p>
+<p>Keynote Speech on <strong>"Managing An Automotive plant in Industry 4.0 Era"</Strong></p>
+        </a>
+    
+     </div>
+   </div>
+      <!-- End Body section -->
+      <hr>
+      <div id="footer_content">
+      </div>
+      </div> <!-- /container -->
+      <script type="text/javascript">
+         load_content('keynote');
+      </script>
+       
+   </body>
+</html>
