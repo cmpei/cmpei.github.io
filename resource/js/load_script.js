@@ -56,6 +56,7 @@ function load_content(page_title) {
 							<ul class="nav nav-pills">\
 								<li id="index" class="nav-link"><a href="/">Home</a></li>\
                                                                 <li id="keynote" class="nav-link"><a href="/keynote">Keynote Speakers</a></li>\
+								<li id="schedule" class="nav-link"><a href="/schedule">Conference Schedule</a></li>\
 								<li id="call_for_papers" class="nav-link"><a href="/call_for_papers">Call for Papers</a></li>\
 								<li id="important_dates" class="nav-link"><a href="/important_dates">Important Dates</a></li>\
 								<li id="authors" class="nav-link"><a href="/authors">Guidelines to Authors</a></li>\
